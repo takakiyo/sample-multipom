@@ -5,9 +5,10 @@
 	<parent>
 		<groupId>jp.sample.maven</groupId>
 		<artifactId>sample-parent</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>1.0.0</version>
 	</parent>
 	<artifactId>sample-webapp1</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<build>
 		<finalName>${project.artifactId}</finalName>
